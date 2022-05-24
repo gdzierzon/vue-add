@@ -10,6 +10,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/gdzierzon/vue-add.git"
+  },
   "keywords": [
     "cli",
     "vue-add"
