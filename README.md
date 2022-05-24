@@ -1,7 +1,7 @@
 # vue-add CLI helper
 
 ```
-npm install -g vue-add
+npm install -g @gregor-dzierzon/vue-add
 ```
 
 ## File Structure
@@ -41,7 +41,7 @@ product-list.js
 
 ``` javascript
 export default {
-  name: "product-row",
+  name: "product-list",
   components: {},
   data() {
       return {}

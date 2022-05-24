@@ -1,6 +1,6 @@
 {
   "name": "@gregor-dzierzon/vue-add",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Create VUE components and services from the CLI.",
   "main": "bin/index.js",
   "bin": {
